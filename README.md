@@ -1,4 +1,4 @@
-# Open Ocean Buddy Locator
+# Azure Sphere Smart Snooze Alarm Clock
 
 By bbtinkerer (<http://bb-tinkerer.blogspot.com/>)
 
