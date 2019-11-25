@@ -1,4 +1,4 @@
-# Azure Sphere Smart Snooze Alarm Clock
+# Azure Smart Snooze Alarm Clock
 
 By bbtinkerer (<http://bb-tinkerer.blogspot.com/>)
 
