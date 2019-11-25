@@ -1,0 +1,24 @@
+{
+  "SchemaVersion": 1,
+  "Name": "AzureSmartSnoozeAlarmClock",
+  "ComponentId": "4dc964f5-4790-419f-a4ea-92713aa46c2f",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [ ],
+  "Capabilities": {
+    "AllowedConnections": [ ],
+    "MutableStorage": { "SizeKB": 8 },
+    "Gpio": [
+      "$AVNET_MT3620_SK_GPIO0",
+      "$AVNET_MT3620_SK_GPIO42",
+      "$AVNET_MT3620_SK_GPIO43",
+      "$AVNET_MT3620_SK_USER_BUTTON_A",
+      "$AVNET_MT3620_SK_USER_BUTTON_B"
+    ],
+    "I2cMaster": [ "$AVNET_MT3620_SK_ISU2_I2C" ],
+    "SystemTime": true,
+    "Uart": [],
+    "WifiConfig": true,
+    "NetworkConfig": false,
+    "DeviceAuthentication": ""
+  }
+}
